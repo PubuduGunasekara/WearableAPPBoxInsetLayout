@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticeTask1</string>
+    <string name="long_text">Is this text appearing right on this screen?</string>
+</resources>
